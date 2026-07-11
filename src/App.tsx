@@ -11,6 +11,7 @@ import Classes from './components/Classes';
 import Trainers from './components/Trainers';
 import Pricing from './components/Pricing';
 import Testimonials from './components/Testimonials';
+import Community from './components/Community';
 import ContactUs from './components/ContactUs';
 import CTA from './components/CTA';
 import Footer from './components/Footer';
@@ -32,6 +33,7 @@ export default function App() {
           <Trainers />
           <Pricing />
           <Testimonials />
+          <Community />
           <ContactUs />
           <CTA />
         </main>
